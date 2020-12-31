@@ -4,16 +4,16 @@
 <br />
 
 
- * [Image Segmentation (17)](#Image-Segmentation)   
+ * [Image Segmentation (13)](#Image-Segmentation)   
  * [Video Segmentation (16)](#Video-Segmentation)
  * [Panoptic Segmentation (1)](#Panoptic-Segmentation)   
- * [Instance Segmentation (12)](#Instance-Segmentation)   
+ * [Instance Segmentation (13)](#Instance-Segmentation)   
  * [Weakly-supervised Segmentation (7)](#Weakly-supervised-Segmentation)     
  * [Semi-supervised Segmentation (3)](#Semi-supervised-Segmentation) 
  * [Unsupervised Segmentation (2)](#Unsupervised-Segmentation)    
  * [Domain Adaptation for Semantic Segmentation (7)](#Domain-Adaptation-for-Semantic-Segmentation)  
  * [Few-shot Semantic Segmentation (3)](#Few-shot-Semantic-Segmentation)  
- * [Interactive Segmentation (5)](#Interactive-Segmentation)  
+ * [Interactive Segmentation (6)](#Interactive-Segmentation)  
  * [Attacks and Defenses for Segmentation (2)](#Attacks-and-Defenses-for-Segmentation)
  * [Medical Image Segmentation (7)](#Medical-Image-Segmentation)
  * [3D Segmentation (9)](#3D-Segmentation)
@@ -24,7 +24,10 @@
  * [RGB-D Segmentation (1)](#RGB-D-Segmentation)
  * [Shadow Segmentation (1)](#Shadow-Segmentation)   
  * [Transparent Objects Segmentation (1)](#Transparent-Objects-Segmentation)  
+ * [Active Semantic Segmentation (1)](#Active-Semantic-Segmentation)  
+ * [Part Semantic Segmentation (1)](#Part-Semantic-Segmentation)  
  * [Dataset (1)](#Dataset)    
+
 
 
 
@@ -53,9 +56,6 @@ Yuhui Yuan, Jingyi Xie, Xilin Chen, Jingdong Wang
 **Object-Contextual Representations for Semantic Segmentation**    
 [[pdf]](https://static.aminer.cn/storage/pdf/arxiv/19/1909/1909.11065.pdf)
 
-**The Semantic Mutex Watershed for Efficient Bottom-Up Semantic Instance Segmentation**     
-[[pdf]](https://static.aminer.cn/storage/pdf/arxiv/19/1912/1912.12717.pdf)
-
 **Improving Semantic Segmentation via Decoupled Body and Edge Supervision**     
 Xiangtai Li, Xia Li, Li Zhang, Guangliang Cheng, Jianping Shi, Zhouchen Lin, Shaohua Tan, Yunhai Tong      
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620426.pdf)   [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620426-supp.pdf)
@@ -63,10 +63,6 @@ Xiangtai Li, Xia Li, Li Zhang, Guangliang Cheng, Jianping Shi, Zhouchen Lin, Sha
 **Intra-class Feature Variation Distillation for Semantic Segmentation**    
 Yukang Wang, Wei Zhou, Tao Jiang, Xiang Bai, Yongchao Xu    
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520341.pdf)
-
-**GMNet: Graph Matching Network for Large Scale Part Semantic Segmentation in the Wild**    
-Umberto Michieli, Edoardo Borsato, Luca Rossi, Pietro Zanuttigh   
-[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530392.pdf)    [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530392-supp.pdf)
 
 **Increasing the Robustness of Semantic Segmentation Models with Painting-by-Numbers**   
 Christoph Kamann, Carsten Rother    
@@ -76,14 +72,6 @@ Christoph Kamann, Carsten Rother
 Wanli Chen, Xinge Zhu, Ruoqi Sun, Junjun He, Ruiyu Li, Xiaoyong Shen , Bei Yu      
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620052.pdf)    [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620052-supp.pdf)
  
-**SideInfNet: A Deep Neural Network for Semi-Automatic Semantic Segmentation with Side Information**     
-Jing Yu Koh, Duc Thanh Nguyen, Quang-Trung Truong, Sai-Kit Yeung, Alexander Binder     
-[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690103.pdf)    [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690103-supp.pdf)
-
-**Attend and Segment: Attention Guided Active Semantic Segmentation**    
-Soroush Seifi, Tinne Tuytelaars    
-[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700307.pdf)    [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700307-supp.pdf)
-
 **EfficientFCN: Holistically-guided Decoding for Semantic Segmentation**    
 Jianbo Liu, Junjun He, Jiawei Zhang, Jimmy S. Ren, Hongsheng Li    
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710001.pdf)   
@@ -225,7 +213,8 @@ Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instan
 Aditya Arun, C.V. Jawahar, M. Pawan Kumar    
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730256.pdf)     [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730256-supp.pdf)
 
-
+The Semantic Mutex Watershed for Efficient Bottom-Up Semantic Instance Segmentation    
+[[pdf]](https://static.aminer.cn/storage/pdf/arxiv/19/1912/1912.12717.pdf)
 
 
 
@@ -446,6 +435,9 @@ Interactive Video Object Segmentation Using Global and Local Transfer Modules
 Yuk Heo, Yeong Jun Koh, Chang-Su Kim     
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620290.pdf)    [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620290-supp.zip)
 
+SideInfNet: A Deep Neural Network for Semi-Automatic Semantic Segmentation with Side Information           
+Jing Yu Koh, Duc Thanh Nguyen, Quang-Trung Truong, Sai-Kit Yeung, Alexander Binder       
+[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690103.pdf)    [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690103-supp.pdf)
 
 
 
@@ -532,6 +524,21 @@ Segmenting Transparent Objects in the Wild
 [[pdf]](https://static.aminer.cn/storage/pdf/arxiv/20/2003/2003.13948.pdf)
 
 
+
+
+<h3 id="Active-Semantic-Segmentation">Active Semantic Segmentation</h3>
+
+Attend and Segment: Attention Guided Active Semantic Segmentation      
+Soroush Seifi, Tinne Tuytelaars    
+[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700307.pdf)    [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700307-supp.pdf)
+
+
+
+<h3 id="Part-Semantic-Segmentation">Part Semantic Segmentation</h3>
+
+GMNet: Graph Matching Network for Large Scale Part Semantic Segmentation in the Wild      
+Umberto Michieli, Edoardo Borsato, Luca Rossi, Pietro Zanuttigh     
+[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530392.pdf)    [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530392-supp.pdf)
 
 
 
