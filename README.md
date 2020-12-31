@@ -31,68 +31,68 @@
 
 <h3 id="Image-Segmentation">Image Segmentation</h3>
 
-Semantic Flow for Fast and Accurate Scene Parsing      
+**Semantic Flow for Fast and Accurate Scene Parsing**
 Xiangtai Li, Ansheng You, Zhen Zhu, Houlong Zhao, Maoke Yang, Kuiyuan Yang, Shaohua Tan, Yunhai Tong        
-[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460749.pdf)           [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460749-supp.pdf)
+[[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460749.pdf)           [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460749-supp.pdf)     [[code]](https://github.com/donnyyou/torchcv)
 
-Learning to Predict Context-adaptive Convolution for Semantic Segmentation     
+**Learning to Predict Context-adaptive Convolution for Semantic Segmentation**     
 Jianbo Liu, Junjun He, Yu Qiao, Jimmy S. Ren, Hongsheng Li    
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700766.pdf)
 
-Class-wise Dynamic Graph Convolution for Semantic Segmentation    
+**Class-wise Dynamic Graph Convolution for Semantic Segmentation**    
 Hanzhe Hu, Deyi Ji, Weihao Gan, Shuai Bai, Wei Wu, Junjie Yan     
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620001.pdf)   [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620001-supp.pdf)
 
-Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation       
+**Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation**       
 [[pdf]](https://static.aminer.cn/storage/pdf/arxiv/20/2003/2003.08440.pdf)
 
-SegFix: Model-Agnostic Boundary Refinement for Segmentation         
+**SegFix: Model-Agnostic Boundary Refinement for Segmentation**         
 Yuhui Yuan, Jingyi Xie, Xilin Chen, Jingdong Wang       
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570477.pdf)   [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570477-supp.pdf)
 
-Object-Contextual Representations for Semantic Segmentation    
+**Object-Contextual Representations for Semantic Segmentation**    
 [[pdf]](https://static.aminer.cn/storage/pdf/arxiv/19/1909/1909.11065.pdf)
 
-The Semantic Mutex Watershed for Efficient Bottom-Up Semantic Instance Segmentation     
+**The Semantic Mutex Watershed for Efficient Bottom-Up Semantic Instance Segmentation**     
 [[pdf]](https://static.aminer.cn/storage/pdf/arxiv/19/1912/1912.12717.pdf)
 
-Improving Semantic Segmentation via Decoupled Body and Edge Supervision     
+**Improving Semantic Segmentation via Decoupled Body and Edge Supervision**     
 Xiangtai Li, Xia Li, Li Zhang, Guangliang Cheng, Jianping Shi, Zhouchen Lin, Shaohua Tan, Yunhai Tong      
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620426.pdf)   [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620426-supp.pdf)
 
-Intra-class Feature Variation Distillation for Semantic Segmentation    
+**Intra-class Feature Variation Distillation for Semantic Segmentation**    
 Yukang Wang, Wei Zhou, Tao Jiang, Xiang Bai, Yongchao Xu    
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520341.pdf)
 
-GMNet: Graph Matching Network for Large Scale Part Semantic Segmentation in the Wild    
+**GMNet: Graph Matching Network for Large Scale Part Semantic Segmentation in the Wild**    
 Umberto Michieli, Edoardo Borsato, Luca Rossi, Pietro Zanuttigh   
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530392.pdf)    [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530392-supp.pdf)
 
-Increasing the Robustness of Semantic Segmentation Models with Painting-by-Numbers   
+**Increasing the Robustness of Semantic Segmentation Models with Painting-by-Numbers**   
 Christoph Kamann, Carsten Rother    
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550375.pdf)   [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550375-supp.pdf)
 
-Tensor Low-Rank Reconstruction for Semantic Segmentation     
+**Tensor Low-Rank Reconstruction for Semantic Segmentation**     
 Wanli Chen, Xinge Zhu, Ruoqi Sun, Junjun He, Ruiyu Li, Xiaoyong Shen , Bei Yu      
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620052.pdf)    [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620052-supp.pdf)
  
-SideInfNet: A Deep Neural Network for Semi-Automatic Semantic Segmentation with Side Information     
+**SideInfNet: A Deep Neural Network for Semi-Automatic Semantic Segmentation with Side Information**     
 Jing Yu Koh, Duc Thanh Nguyen, Quang-Trung Truong, Sai-Kit Yeung, Alexander Binder     
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690103.pdf)    [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690103-supp.pdf)
 
-Attend and Segment: Attention Guided Active Semantic Segmentation    
+**Attend and Segment: Attention Guided Active Semantic Segmentation**    
 Soroush Seifi, Tinne Tuytelaars    
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700307.pdf)    [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700307-supp.pdf)
 
-EfficientFCN: Holistically-guided Decoding for Semantic Segmentation    
+**EfficientFCN: Holistically-guided Decoding for Semantic Segmentation**    
 Jianbo Liu, Junjun He, Jiawei Zhang, Jimmy S. Ren, Hongsheng Li    
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710001.pdf)   
 
-OneGAN: Simultaneous Unsupervised Learning of Conditional Image Generation, Foreground Segmentation, and Fine-Grained Clustering      
+**OneGAN: Simultaneous Unsupervised Learning of Conditional Image Generation, Foreground Segmentation, and Fine-Grained Clustering**      
 Yaniv Benny, Lior Wolf        
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710511.pdf)   [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710511-supp.pdf)
  
-Extract and Merge: Superpixel Segmentation with Regional Attributes      
+**Extract and Merge: Superpixel Segmentation with Regional Attributes**      
 Jianqiao An, Yucheng Shi, Yahong Han, Meijun Sun, Qi Tian      
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750154.pdf)  
 
