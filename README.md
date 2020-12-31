@@ -32,7 +32,6 @@
 <h3 id="Image-Segmentation">Image Segmentation</h3>
 
 Semantic Flow for Fast and Accurate Scene Parsing      
-
 Xiangtai Li, Ansheng You, Zhen Zhu, Houlong Zhao, Maoke Yang, Kuiyuan Yang, Shaohua Tan, Yunhai Tong        
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460749.pdf)           [[supp]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460749-supp.pdf)
 
